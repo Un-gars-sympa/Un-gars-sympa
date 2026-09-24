@@ -18,32 +18,64 @@
 </p>
  
 ## 📊 TryHackMe
- 
-- 🏆 **Top 1%** of the platform, **Top 60 France**
-- 🚪 **650+ rooms** completed
-- 🛡️ **70+ badges**
-- 🚩 Industrial Intrusion CTF: **Top 101**
+
+<table align="center">
+  <tr>
+    <td align="center"><h2>Top 1%</h2><sub>Platform</sub></td>
+    <td align="center"><h2>Top 60</h2><sub>France</sub></td>
+    <td align="center"><h2>650+</h2><sub>Rooms</sub></td>
+    <td align="center"><h2>70+</h2><sub>Badges</sub></td>
+    <td align="center"><h2>Top 101</h2><sub>Industrial Intrusion CTF</sub></td>
+  </tr>
+</table>
+
+
 
 ## 🛠️ Tools used
 
-  <p> 
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-3BCC50?style=flat-square&logo=nmap&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-1c68ae?style=flat-square&logo=zap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound-C41E3A?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Nmap-3BCC50?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-1c68ae?style=flat-square&logo=zap&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/BloodHound-C41E3A?style=flat-square&logoColor=white" alt="BloodHound"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</p>
  
 
-## 🔍 Focus areas
- 
-- **Pentest Web:** SSRF, XSS, IDOR, JWT, SSTI, NoSQLi, file upload bypasses, LFI/RCE chains
-- **Active Directory:** Kerberoasting, AS-REP Roasting, RBCD, delegation abuse, BloodHound, DCSync
-- **Privilege escalation:** Linux & Windows
-- **Also:**  Forensics, OSINT
+## 🧪 What I practice
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web
+`SSRF` `XSS` `IDOR` `JWT` `SSTI` `SQLi` `File upload bypasses` `LFI` `OSINT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏰 Active Directory
+`Kerberoasting` `AS-REP Roasting` `RBCD` `Delegation abuse` `BloodHound` `DCSync`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⬆️ Privilege escalation
+`Linux` `Windows`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Blue Team <sub>🚧 in construction</sub>
+`Splunk` `Elastic` `Sysmon` `Network (PCAP)` `MITRE ATT&CK`
+
+</td>
+</tr>
+</table>
 
 ## 📁 Featured work
  
