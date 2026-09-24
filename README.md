@@ -28,7 +28,7 @@
 
   <p> 
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Nmap-3BCC50?style=flat-square&logo=nmap&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-1c68ae?style=flat-square&logo=zap&logoColor=white"/>
@@ -49,8 +49,8 @@
  
 | | |
 |---|---|
-| 📝 [**TryHackMe Walkthroughs**](https://github.com/Un-gars-sympa/TryHackMe-s-Walkthroughs) | How I approach CTF rooms: methodology first, not just answers |
-| 📄 [**Pentest report: Wreath**](https://github.com/Un-gars-sympa/TryHackMe-s-Walkthroughs/blob/main/Rapport%20de%20test%20d'intrusion%20Thomas%20WREATH.pdf) | A full network engagement written up like a client deliverable |
+| 🚶‍♂️ [**TryHackMe Walkthroughs**](https://github.com/Un-gars-sympa/TryHackMe-s-Walkthroughs) | Basic walkthroughs of my methodology for a pentest (in french and in english) |
+| 📄 [**Pentest report: Wreath**](https://github.com/Un-gars-sympa/TryHackMe-s-Walkthroughs/blob/main/Rapport%20de%20test%20d'intrusion%20Thomas%20WREATH.pdf) | An example of a report that I made for the Wreath's CTF on THM |
  
  
 ## 📫 Let's talk
