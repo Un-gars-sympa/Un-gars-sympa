@@ -33,16 +33,11 @@
 
 ## 🛠️ Tools used
 
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Nmap-3BCC50?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-1c68ae?style=flat-square&logo=zap&logoColor=white" alt="OWASP ZAP"/>
-  <img src="https://img.shields.io/badge/BloodHound-C41E3A?style=flat-square&logoColor=white" alt="BloodHound"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
- 
+<p align="center">
+
+<img width="900" height="160" alt="tools (2)" src="https://github.com/user-attachments/assets/3ea40b38-d6bb-4838-a3c1-235aced7d2b0" />
+
+ </p>
 
 ## 🧪 What I practice
 
