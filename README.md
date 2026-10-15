@@ -19,17 +19,9 @@
  
 ## 📊 TryHackMe
 
-<table align="center">
-  <tr>
-    <td align="center"><h2>Top 1%</h2><sub>Platform</sub></td>
-    <td align="center"><h2>Top 60</h2><sub>France</sub></td>
-    <td align="center"><h2>650+</h2><sub>Rooms</sub></td>
-    <td align="center"><h2>70+</h2><sub>Badges</sub></td>
-    <td align="center"><h2>Top 101</h2><sub>Industrial Intrusion CTF</sub></td>
-  </tr>
-</table>
-
-
+<p align="center">
+<img src="https://cdn-images.tryhackme.com/public-profile/Ungarssympa/badge-dark-8dd4ac0fe23f.png" alt="Ungarssympa's TryHackMe badge." width="400">
+</p>
 
 ## 🛠️ Tools used
 
@@ -60,7 +52,7 @@
 <td width="50%" valign="top">
 
 ### ⬆️ Privilege escalation
-`Linux` `Windows`
+`Linux` `Windows``Active Directory`
 
 </td>
 <td width="50%" valign="top">
