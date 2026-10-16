@@ -52,7 +52,7 @@
 <td width="50%" valign="top">
 
 ### ⬆️ Privilege escalation
-`Linux` `Windows``Active Directory`
+`Linux` `Windows` `Active Directory`
 
 </td>
 <td width="50%" valign="top">
