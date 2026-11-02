@@ -22,7 +22,7 @@
 ## 📊 TryHackMe
 
 <p align="center">
-<img src="https://cdn-images.tryhackme.com/public-profile/Ungarssympa/badge-dark-8dd4ac0fe23f.png" alt="Ungarssympa's TryHackMe badge." width="400">
+<img src="https://cdn-images.tryhackme.com/public-profile/Ungarssympa/badge-dark-af626f9808d1.png" alt="Ungarssympa's TryHackMe badge." width="400">
 </p>
 
 ## 🛠️ Tools used
