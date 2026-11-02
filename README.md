@@ -6,6 +6,8 @@
 ## 🏅 Certifications
 
 <p align="center">
+  <a href="https://assets.tryhackme.com/certification-certificate/6ae5a50dc1d218efecd7e6f6.pdf"><img src="https://tryhackme.com/_next/static/immutable/media/pt1-badge.0pzscoo7pvsdl.svg" width="200" alt="PT1"></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://certs.ine.com/56c5f7ad-fa5e-4187-b7ed-544e35a42c26#acc.0NKjZnXb"><img src="https://github.com/user-attachments/assets/d76830cb-8082-4215-9f18-2c338682376f" width="150" alt="eCPPT"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://certs.ine.com/5ef29a07-193a-452f-a3bf-ba4da76fe283#acc.qOr2vT7P"><img src="https://github.com/user-attachments/assets/07425f68-543f-44f9-a20b-ac3938e694f4" width="150" alt="eJPT"></a>
@@ -14,7 +16,7 @@
 </p>
 
 <p align="center">
-  🎯 <b>In the scope:</b> PT1 (TryHackMe) · SC-200 (Microsoft) · eWPT (INE)
+  🎯 <b>In the scope:</b> Security+ (CompTIA) · SC-200 (Microsoft) · CPTS (HackTheBox) · eWPT (INE)
 </p>
  
 ## 📊 TryHackMe
