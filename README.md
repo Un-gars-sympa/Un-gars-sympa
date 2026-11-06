@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+  (Click to see)
+</p>
+
+<p align="center">
   🎯 <b>In the scope:</b> Security+ (CompTIA) · SC-200 (Microsoft) · CPTS (HackTheBox) · eWPT (INE)
 </p>
  
